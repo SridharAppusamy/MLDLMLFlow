@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/DLMLFLOW/mlruns/911689980281923502/5cd1f2fb1b7d493a95e09c4c79a7d1c3/artifacts
+end_time: 1729511994384
+entry_point_name: ''
+experiment_id: '911689980281923502'
+lifecycle_stage: active
+run_id: 5cd1f2fb1b7d493a95e09c4c79a7d1c3
+run_name: upbeat-vole-17
+run_uuid: 5cd1f2fb1b7d493a95e09c4c79a7d1c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729511993977
+status: 4
+tags: []
+user_id: ADMIN

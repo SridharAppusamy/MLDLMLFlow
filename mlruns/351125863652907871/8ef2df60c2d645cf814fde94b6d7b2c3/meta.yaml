@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351125863652907871/8ef2df60c2d645cf814fde94b6d7b2c3/artifacts
+end_time: 1729170478326
+entry_point_name: ''
+experiment_id: '351125863652907871'
+lifecycle_stage: active
+run_id: 8ef2df60c2d645cf814fde94b6d7b2c3
+run_name: glamorous-ant-827
+run_uuid: 8ef2df60c2d645cf814fde94b6d7b2c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729170477956
+status: 3
+tags: []
+user_id: ADMIN

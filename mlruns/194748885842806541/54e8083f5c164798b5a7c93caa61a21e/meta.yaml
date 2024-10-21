@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194748885842806541/54e8083f5c164798b5a7c93caa61a21e/artifacts
+end_time: 1729178965867
+entry_point_name: ''
+experiment_id: '194748885842806541'
+lifecycle_stage: active
+run_id: 54e8083f5c164798b5a7c93caa61a21e
+run_name: righteous-frog-653
+run_uuid: 54e8083f5c164798b5a7c93caa61a21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729178857544
+status: 3
+tags: []
+user_id: ADMIN

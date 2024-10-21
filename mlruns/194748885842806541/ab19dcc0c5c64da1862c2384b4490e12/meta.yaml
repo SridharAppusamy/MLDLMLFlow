@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/194748885842806541/ab19dcc0c5c64da1862c2384b4490e12/artifacts
+end_time: 1729225301320
+entry_point_name: ''
+experiment_id: '194748885842806541'
+lifecycle_stage: active
+run_id: ab19dcc0c5c64da1862c2384b4490e12
+run_name: calm-gnat-58
+run_uuid: ab19dcc0c5c64da1862c2384b4490e12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729225239932
+status: 3
+tags: []
+user_id: ADMIN

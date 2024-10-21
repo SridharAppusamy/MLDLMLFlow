@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/1-MLProject/mlruns/0/92f23723a11c4564af02ed32de9a0d92/artifacts
+end_time: 1729239397726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92f23723a11c4564af02ed32de9a0d92
+run_name: blushing-gnu-747
+run_uuid: 92f23723a11c4564af02ed32de9a0d92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729239396896
+status: 4
+tags: []
+user_id: ADMIN

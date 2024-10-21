@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/DLMLFLOW/mlruns/911689980281923502/6c14b3bf1c4f4fdf91cfbb0f1e050c48/artifacts
+end_time: 1729514120372
+entry_point_name: ''
+experiment_id: '911689980281923502'
+lifecycle_stage: active
+run_id: 6c14b3bf1c4f4fdf91cfbb0f1e050c48
+run_name: spiffy-eel-88
+run_uuid: 6c14b3bf1c4f4fdf91cfbb0f1e050c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729513955942
+status: 3
+tags: []
+user_id: ADMIN

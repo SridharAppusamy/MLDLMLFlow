@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/DLMLFLOW/mlruns/911689980281923502/e24413d6df2f423ca66174014a579a9e/artifacts
+end_time: 1729512431009
+entry_point_name: ''
+experiment_id: '911689980281923502'
+lifecycle_stage: active
+run_id: e24413d6df2f423ca66174014a579a9e
+run_name: intrigued-tern-143
+run_uuid: e24413d6df2f423ca66174014a579a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729512430661
+status: 4
+tags: []
+user_id: ADMIN

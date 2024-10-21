@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729239905864
+current_stage: None
+description: ''
+last_updated_timestamp: 1729239905864
+name: Best_RandomForest Model
+run_id: 6c8944e9adea4a41b87de0334ce9da4e
+run_link: ''
+source: file:///f:/MLops/MLFlowStater/1-MLProject/mlruns/0/6c8944e9adea4a41b87de0334ce9da4e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///f:/MLops/MLFlowStater/1-MLProject/mlruns/0/6c8944e9adea4a41b87de0334ce9da4e/artifacts/model
+user_id: null
+version: 1

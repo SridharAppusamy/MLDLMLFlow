@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/DLMLFLOW/mlruns/911689980281923502/ec42ac4a269a48e3817ca7e0311d6ca5/artifacts
+end_time: 1729512165322
+entry_point_name: ''
+experiment_id: '911689980281923502'
+lifecycle_stage: active
+run_id: ec42ac4a269a48e3817ca7e0311d6ca5
+run_name: wise-ram-212
+run_uuid: ec42ac4a269a48e3817ca7e0311d6ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729512164994
+status: 4
+tags: []
+user_id: ADMIN

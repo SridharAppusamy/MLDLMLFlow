@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/1-MLProject/mlruns/0/2869f495f48e496b855b5d8e08e9bfe8/artifacts
+end_time: 1729239707104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2869f495f48e496b855b5d8e08e9bfe8
+run_name: tasteful-newt-566
+run_uuid: 2869f495f48e496b855b5d8e08e9bfe8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729239706953
+status: 4
+tags: []
+user_id: ADMIN

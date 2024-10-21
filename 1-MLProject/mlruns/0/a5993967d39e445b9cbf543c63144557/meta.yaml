@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/1-MLProject/mlruns/0/a5993967d39e445b9cbf543c63144557/artifacts
+end_time: 1729239535329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5993967d39e445b9cbf543c63144557
+run_name: monumental-shark-946
+run_uuid: a5993967d39e445b9cbf543c63144557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729239534975
+status: 4
+tags: []
+user_id: ADMIN

@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/DLMLFLOW/mlruns/911689980281923502/93b90ab3a628447dad7ab1b83e4dca31/artifacts
+end_time: 1729512111114
+entry_point_name: ''
+experiment_id: '911689980281923502'
+lifecycle_stage: active
+run_id: 93b90ab3a628447dad7ab1b83e4dca31
+run_name: wistful-newt-261
+run_uuid: 93b90ab3a628447dad7ab1b83e4dca31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729512110798
+status: 4
+tags: []
+user_id: ADMIN

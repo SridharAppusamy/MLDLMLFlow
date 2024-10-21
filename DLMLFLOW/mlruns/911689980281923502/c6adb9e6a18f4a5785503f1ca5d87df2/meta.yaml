@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/MLops/MLFlowStater/DLMLFLOW/mlruns/911689980281923502/c6adb9e6a18f4a5785503f1ca5d87df2/artifacts
+end_time: 1729514305679
+entry_point_name: ''
+experiment_id: '911689980281923502'
+lifecycle_stage: active
+run_id: c6adb9e6a18f4a5785503f1ca5d87df2
+run_name: luminous-penguin-839
+run_uuid: c6adb9e6a18f4a5785503f1ca5d87df2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729513955612
+status: 4
+tags: []
+user_id: ADMIN
